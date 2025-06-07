@@ -1,3 +1,6 @@
 requests
 pycryptodome
 protobuf
+psutil
+PyJWT
+jwt
